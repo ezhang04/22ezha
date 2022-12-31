@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Eric Zhang
-- 👀 I’m interested in Programming in diffrent languages and software dev.
-- 🌱 I’m currently learning Python at Stevens Institute of Technology and Golang on my own
-- 📫 How to reach me ericzhang200@gmail.com
+- Hi, I’m Eric Zhang
+- I’m interested in Programming in diffrent languages and working towards becoming a full stack developer.
+- Student at Stevens Institute of Technology class of 2026
+- Email: ericzhang200@gmail.com
 
 <!---
 22ezha/22ezha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
