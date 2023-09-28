@@ -1,6 +1,6 @@
 - Hi, I’m Eric Zhang
 - I’m interested in Programming in diffrent languages and working towards becoming a full stack developer.
-- Student at Stevens Institute of Technology class of 2026
+- Computer Science Student at New Jersey Institute of Technology class of 2026
 - Email: ericzhang200@gmail.com
 
 <!---
